@@ -3,28 +3,33 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## What is Public Art Baltimore?
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Public Art Baltimore is an advocacy and education network for people and organizations are interested in celebrating, preserving and working with Baltimore‘s public art, outdoor sculpture, murals and other public artworks. Our shared goals include:
 
-There are currently two themes built on Poole:
+- Educating residents about how public art is commissioned and managed
+- Facilitating community participation in public art education and conservation
+- Increasing resources for public art conservation
+- Enhancing the visibility of existing public art programs
+- Advocating for the protection of public art and monuments
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## What are we working on?
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Through the efforts of our partners and the Public Art Baltimore Working Group, we hope to build a stronger network of public art advocates with the knowledge and expertise to protect Baltimore‘s public art and monuments while continuing to celebrate the renaissance of interest in public art-making. Our key areas of interest include:
 
-## Setup
+- Data & Documentation
+- Outreach & Programming
+- Resources for Baltimore Residents & Artists
+- Funding & Advocacy
 
-Some fun facts about the setup of this project include:
+## Contact
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+For more information, please contact Eli Pousson at pousson@baltimoreheritage.org or Ryan Patterson at rpatterson@promotionandarts.org.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Related Organizations
 
-Thanks for reading!
+- Adopt-a-Monument Fund
+- Baltimore City Commission for Historical and Architectural Preservation
+- Baltimore Heritage
+- Baltimore Office of Promotion and the Arts
+- Greater Baltimore Cultural Alliance
