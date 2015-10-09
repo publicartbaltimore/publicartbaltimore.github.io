@@ -1,10 +1,11 @@
-# Public Art in Public Schools: Historic Context Study
-Eli Pousson, Baltimore Heritage
-October 2015
+---
+layout: page
+title: Public Art in Public Schools
+---
 
-**Note:** This study is a **working draft** and may contain errors or omissions.  It was prepared by Eli Pousson for Baltimore Heritage in September and October 2015. It is basely largely on accounts from the _Baltimore Sun_ supplemented with additional background research. This is not intended to detail the history of individual artworks within Baltimore’s public schools but to establish a historic context for public art in schools more broadly and to build interest and support for the preservation of these artworks in the present.
+<p class="message">This study is a **working draft** and may contain errors or omissions.  It was prepared by Eli Pousson for Baltimore Heritage in September and October 2015. It is basely largely on accounts from the _Baltimore Sun_ supplemented with additional background research. This is not intended to detail the history of individual artworks within Baltimore’s public schools but to establish a historic context for public art in schools more broadly and to build interest and support for the preservation of these artworks in the present.</p>
 
-# Introduction
+#  Historic Context Study Introduction
 
 The history of public art in Baltimore’s schools can be categorized into three periods—each shaped by a different mix of public policy and private groups:
 
@@ -90,7 +91,6 @@ The members of the review committee were Hans Schuler, Dr. Eleanor Spencer, Dr. 
 > Another panel depicts a scene on a Mississippi levee, with a river steamer in the background, a Negro strumming a banjo, another trundling a bale of cotton along the wharf and high in the background is a religious note int he form of a white-haired Negro, with wings, blowing a trumpet.
 > The third panel shows the present state of the Negro. Modern buildings form a background for Negro figures depicting a scientists, artist, musician, architect, writer and a mother holding an infant.[^7]
 
-
 ## 1935: WPA Federal Art Program established
 
 Between 1935 and 1943, the the Works Progress Administration (WPA) Federal Art Program employed more than 6,000 artists who created more than 2,000 murals, 17,000 sculptures and 100,000 paintings in and _on_ public buildings around the United States.
@@ -159,7 +159,7 @@ Perlman noted that in nine years the program had commissioned 150 works of art, 
 For an example of a much-loved public artwork in a city school, Perlman cites the mural glass walls at Commodore John Rodgers Elementary School on Fayette Street, designed and executed by Gyorgy Kepes, chairman of the visual arts department at MIT. Architect Van Fossen Schwab, saw the mural as:
 
 > a constant joy to the inhabitants—a joy to the students and faculty during the daylight hours and the members of the community during the hours of darkness, when the murals would become part of the fabric of the city […]
-> 
+
 The principal of the school, Harold Katz, echoed the enthusiasm of the architect:
 
 > The impression that I have is that the school staff, parents, pupils and others in the community are delighted with the artwork. I've heard nothing but positive comments about it. Our children love to go to the library to see the brilliant colors on the carpet. It's breathtaking! I don't know if there is a direct, positive correlation but circulation of books in the library has increased.
@@ -264,7 +264,7 @@ Schaefer highlighted "Beautiful Walls for Baltimore" and other city programs as 
 > ”It didn't happen," Mayor Schaefer said. "There was no vandalism because they appreciated the art [as their own].”
 > The mayor outlined a number of landmark projects in which the city took the initiative. They began with the "1 percent for art" formula on all public construction projects that was passed in 1964 when he was still a member of the City Council. The Mayor's Ball for the benefit of the Arts, which he created in 173, provided $100,000 last year for arts programs at the neighborhood level. The Mayor's Advisory Committee on Arts and Culture has been coordinating arts projects citywide since 1974, and the Artscape Festival, which was formed in 1982 to focus attention on the arts, drew more than 600,000.[^26]
 
-In April 20, 1986, the _Sun_ reported on the challenges of liability insurance for artists working with large scale sculptural works at s:
+In April 20, 1986, the _Sun_ reported on the challenges of liability insurance for artists working with large scale sculptural works at schools and public buildings:
 
 > Since 1962, the GSA has commissioned more than 250 public works for federal buildings. These include Mr. Sugarman's steel construction in front of the federal courthouse on Pratt Street downtown, erected in 1977. […]
 > In Maryland, "Artists are required to carry an all-risk insurance policy from the time they begin their projects until they're done and become the property of the state," said Cindy Kelly, program director of the art-in-public places program of the Maryland State Arts Council, which has commissioned six public art works since 1980.
