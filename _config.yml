@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Public Art Baltimore
 tagline:          'Public Art and Monuments in Baltimore, Maryland.'
 description:      'An informal working group of advocates, artists, historians and educators advocating for Baltimore's collection of public art works and historic monuments.'
-url:              http://publicartbaltimore.github.io/
-# baseurl:          /
+url:              http://publicartbaltimore.github.io
+baseurl:          /
 
 author:
-  name:           'Eli Pousson'
-  url:            https://twitter.com/elipousson
+  name:           'Baltimore Heritage'
+  url:            https://twitter.com/bmoreheritage
 
 paginate:         5
 
