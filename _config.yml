@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         kramdown
+markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Public Art Baltimore
 tagline:          'Public Art and Monuments in Baltimore, Maryland.'
-description:      'An informal working group of advocates, artists, historians and educators advocating for Baltimore's collection of public art works and historic monuments.'
+description:      'An informal working group of advocates, artists, historians and educators advocating for public art and historic monuments in Baltimore, Maryland.'
 baseurl:          ""
 url:              "http://publicartbaltimore.github.io/"
 
