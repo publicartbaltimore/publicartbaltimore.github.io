@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Public Art Baltimore
 tagline:          'Public Art and Monuments in Baltimore, Maryland.'
 description:      'An informal working group of advocates, artists, historians and educators advocating for public art and historic monuments in Baltimore, Maryland.'
-baseurl:          ""
-url:              "http://publicartbaltimore.github.io/"
+url:              http://publicartbaltimore.github.io
+baseurl:          /
 
 author:
   name:           'Baltimore Heritage'
